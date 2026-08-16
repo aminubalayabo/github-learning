@@ -1,5 +1,3 @@
-# github-learning
-My first GitHub learning project
 # GitHub Learning
 
 This is my first GitHub repository.
