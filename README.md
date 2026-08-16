@@ -1,5 +1,5 @@
 # GitHub Learning
-
+Prof A. Y. Bala (Ph.D)
 This is my first GitHub repository.
 
 I am learning:
